@@ -12,7 +12,7 @@
   "meshchain": "https://api.meshchain.ai/meshmain",
   "wizzwoods": "https://game-api.wizzwoods.com/api/v1",
   "uxuy": "https://miniapp.uxuy.one/rpc",
-  "sleep": "https://tgapi.sleepagotchi.com/v1/tg",
+  "sleep": "https://telegram-api.sleepagotchi.com/v1/tg",
   "duckChain": "https://aad.duckchain.io",
   "zoo": "https://api.zoo.team",
   "tabizoo": "https://api.tabibot.com/api",
