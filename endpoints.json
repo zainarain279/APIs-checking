@@ -1,4 +1,5 @@
 {
+{
   "clayton": "https://tonclayton.fun/api/aT83M535-617h-5deb-a17b-6a335a67ffd5",
   "pineye": "https://api2.pineye.io/api",
   "memex": "https://memex-preorder.memecore.com",
@@ -21,6 +22,7 @@
   "capx": "https://api.superapp.capx.ai",
   "kushempire": "https://api.kushempire.games/api",
   "xstar": "https://game.xname.app",
+  "magic": "https://www.magicnewton.com/portal/api",
 
   "catopia": "",
   "kitty": "",
