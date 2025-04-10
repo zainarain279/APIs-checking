@@ -26,6 +26,13 @@
   "nodego": "https://nodego.ai/api",
   "aigent": "https://api.qton.xyz/v1",
   "naoris": "https://naorisprotocol.network/sec-api",
+  "somnia": "https://quest.somnia.network/api",
+  "monadscore": "https://mscore.onrender.com",
+  "parasail": "https://www.parasail.network/api",
+  "byData": "https://mega-api.bydata.app",
+  "flow3": "https://api2.flow3.tech/api",
+  "dos": "https://api.dashboard.3dos.io/api",
+  "quackai": "https://quack-ai-api.duckchain.io",
 
   "kite": {
     "agents": {
@@ -56,6 +63,6 @@
   "catopia": "",
   "kitty": "",
   "taker": "",
-  
-  "copyright": "░▀▀█░█▀█░▀█▀░█▀█\n░▄▀░░█▀█░░█░░█░█\n░▀▀▀░▀░▀░▀▀▀░▀░▀\n╔══════════════════════════════════╗\n║                                  ║\n║  ZAIN ARAIN                      ║\n║  AUTO SCRIPT MASTER              ║\n║                                  ║\n║  JOIN TELEGRAM CHANNEL NOW!      ║\n║  https://t.me/AirdropScript6     ║\n║  @AirdropScript6 - OFFICIAL      ║\n║  CHANNEL                         ║\n║                                  ║\n║  FAST - RELIABLE - SECURE        ║\n║  SCRIPTS EXPERT                  ║\n║                                  ║\n╚══════════════════════════════════╝"
+
+  "copyright": "If the api changes please contact the Airdrop Hunter Super Speed tele team (https://t.me/AirdropScript6) for more information and updates!| Have any issuess, please contact: https://t.me/AirdropScript6"
 }
